@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/20c8b2be57cca5ab47230.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/8a89ff50b3a1ff711956d.jpg" alt="nz" width="350"/>
 </p>
 
 ## ***♥️Hitman47♥️***
