@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/8a89ff50b3a1ff711956d.jpg" alt="nz" width="350"/>
 </p>
 
-## ***♥️Hitman47♥️***
+## ***Lord Savage 🕊️🔥***
 > This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
 > ***Note: it's a modified version of [chisato-WhatsAp](https://github.com/AliAryanTech/Chisato-WhatsApp)***
 </br>
